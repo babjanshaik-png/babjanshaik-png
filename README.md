@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Computer Science student with a strong interest in software development and problem solving. I enjoy building efficient and scalable applications.<br><br>I have experience in full-stack development using HTML, CSS, JavaScript, React, Node.js, and MySQL, along with Python for programming and basic machine learning concepts. I also have a good understanding of Data Structures and Algorithms.
+
+I’m a Computer Science student passionate about software development, problem solving, and building scalable applications. I have experience in full-stack development with HTML, CSS, JavaScript, React, Node.js, and MySQL, along with Python for programming and machine learning.
+
+I have a strong foundation in Data Structures and Algorithms and enjoy building AI-powered applications using LLMs, RAG, and modern AI tools. I’m also familiar with Docker, REST APIs, Git/GitHub, and CI/CD practices, with a focus on writing clean, efficient, and maintainable code.
+
 
 
 ## 🌐 Socials:
