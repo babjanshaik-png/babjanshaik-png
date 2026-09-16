@@ -94,33 +94,6 @@ I’m a **Computer Science student and aspiring Software Development Engineer** 
 
 🧩 Improving my **Data Structures & Algorithms and problem-solving skills**
 
----
-
-# 📌 Featured Areas
-
-### 💻 Software Development
-- Full-Stack Web Development
-- Backend Development
-- REST API Development
-- Database Design
-- Authentication & Authorization
-- Data Structures & Algorithms
-
-### 🤖 AI Engineering
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- AI Chatbots
-- AI-powered Applications
-- Machine Learning
-
-### ☁️ DevOps & Cloud
-- Docker & Containerization
-- CI/CD
-- GitHub Actions
-- AWS
-- Cloud Deployment
-- Version Control
 
 ---
 
@@ -140,11 +113,7 @@ I’m a **Computer Science student and aspiring Software Development Engineer** 
 
 ---
 
-## 📈 GitHub Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=babjanshaik-png&theme=react-dark)](https://github.com/babjanshaik-png)
-
----
+ 
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
 
